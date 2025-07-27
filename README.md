@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Nehal Nourine 
-<br>🎓 Computer Science and Engineering student at Govt. Model Engineering College 
+<br>🎓 Computer Science and Engineering student at Govt. Model Engineering College </br>
 💻 Full Stack Developer | 🤖 AI/ML Enthusiast  
  
 🤝 Open to collaborating on innovative AI/ML tools and scalable web platforms  
