@@ -1,5 +1,12 @@
-# 💫 About Me:
-<br>👋Hi, I’m nehal..<br><br>👀 I’m interested in Web development, Machine Learning.<br>🤝 I’m looking to collaborate on Full Stack and ML projects.<br>
+# 👋 Hi, I’m Nehal Nourine 
+<br>🎓 Computer Science and Engineering student at Govt. Model Engineering College 
+💻 Full Stack Developer | 🤖 AI/ML Enthusiast  
+ 
+🤝 Open to collaborating on innovative AI/ML tools and scalable web platforms  
+📚 Deepening my skills in Data Structures, React, and PyTorch  
+🧠 Passionate about solving real-world problems with code and creativity  
+💬 Ask me about Python, React, Streamlit, or how to build AI apps from scratch
+
 
 
 ## 🌐 Socials:
